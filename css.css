@@ -77,6 +77,7 @@ h1 {
   }
   .product-image {
     height: 36vh;
+    width: 47vh;
   }
   img {
     object-fit: cover;
@@ -84,7 +85,8 @@ h1 {
   }
   .product-details {
     border-radius: 0 0 0.4rem 0.4rem;
-    height: 47vh;
+    height: 67vh;
+    width: 48vh;
   }
   .product-price {
     justify-content: unset;
